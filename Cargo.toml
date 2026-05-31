@@ -2,6 +2,8 @@
 name = "lau-consciousness-bridge"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-consciousness-bridge"
 
 [dependencies]
 serde = { version = "1.0.228", features = ["derive"] }
